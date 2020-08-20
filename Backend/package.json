@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "aws-translate-json": "0.0.3",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.2",
     "cors": "^2.8.5",
     "dotenv": "^5.0.1",
